@@ -9,3 +9,5 @@ If you want to run this web-page you need to install node.js last version and to
 4) npm start
 
 localhost:3000 in your browser
+
+![alt text](https://pp.userapi.com/c636518/v636518174/5a95c/vmym4WwJrjI.jpg)
